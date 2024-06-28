@@ -26,7 +26,7 @@ function Header() {
                         <img src={calvin} alt="Logo" style={{ height: 100, width: 100 }} />
                     </div>
                     <div className='col'>
-                        <h1 onClick = {home} style={headerStyle}>Ratbe My Study Spot</h1>
+                        <h1 onClick = {home} style={headerStyle}>Rate My Study Spot</h1>
                     </div>
                 </div>
             </div>
