@@ -69,7 +69,7 @@ const RestaurantList = (props) => {
                     <tr className="bg-primary">
                         <th scope='col'>Name</th>
                         <th scope='col'>Building</th>
-                        <th scope='col'>Price-Range</th>
+                        <th scope='col'>Rating</th>
                         <th scope='col'>Rating</th>
                         <th scope='col'>Edit</th>
                         <th scope='col'>Delete</th>
